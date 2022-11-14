@@ -1,0 +1,2 @@
+## Details
+The startup note is a note generated when the Obsidian app starts. It uses this template [[Open Basic Note on Startup]] to start. The file is placed within the root and is not organized into any folder. On the home screen you can move these files to the Quick Notes which is in the Scraps folder or you can choose to move it to any other folder within Scraps using the folder arrow button
