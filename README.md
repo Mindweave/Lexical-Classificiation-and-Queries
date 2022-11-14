@@ -18,8 +18,7 @@ This is an Obsidian vault so all Obsidian vault functionality is available. For 
 3. Select "Classify text as new text indicator"
 4. Follow the prompts to create your classification
 5. Go to the home note by clicking the home button (looks like a house)
-6. Click "Classify markdown files in Scraps folder"
-6.1 This will classify all your markdown documents in the Scraps folder with the patterns of text you save in your classifications
+6. Click "Classify markdown files in Scraps folder". This will classify all your markdown documents in the Scraps folder with the patterns of text you save in your classifications
 7. Give it time to classify
 8. Hit the queries button (looks like "</>")
 9. Click search classifications
