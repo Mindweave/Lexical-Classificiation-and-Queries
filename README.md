@@ -1,5 +1,5 @@
 # Lexical Classificiation and Queries (LCQ)
-Classifying documents in Obsidian using patterns of text. Making file management a breeze. Video: https://youtu.be/g24UhbmrRwU
+Classifying documents in Obsidian using patterns of text. Making file management a breeze. Explanation: https://youtu.be/O_T9DwHW73E
 
 ## Download Instructions
 This is an Obsidian vault for the program [Obsidian.md](https://obsidian.md/) download the files extract and open as a folder
@@ -11,7 +11,7 @@ This is an Obsidian vault for the program [Obsidian.md](https://obsidian.md/) do
 5. Select the extracted folder which contains a folder called ".obsidian" and click open
 
 ## Usage instructions
-This is an Obsidian vault so all Obsidian vault functionality is available. For details on the classifications watch the following video: https://youtu.be/g24UhbmrRwU
+This is an Obsidian vault so all Obsidian vault functionality is available
 
 1. For the classifications highlight text in any markdown document
 2. Click the classification button (looks like an open box with an arrow)
